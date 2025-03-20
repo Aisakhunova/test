@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "name": "Футболка",
+    "image": "https://picsum.photos/id/1/300/300.jpg",
+    "price": 1200,
+    "category": "Одежда"
+  },
+  {
+    "id": 2,
+    "name": "Джинсы",
+    "image": "https://picsum.photos/id/2/300/300.jpg",
+    "price": 3000,
+    "category": "Одежда"
+  },
+  {
+    "id": 3,
+    "name": "Куртка",
+    "image": "https://picsum.photos/id/3/300/300.jpg",
+    "price": 7500,
+    "category": "Одежда"
+  },
+  {
+    "id": 4,
+    "name": "Кроссовки",
+    "image": "https://picsum.photos/id/4/300/300.jpg",
+    "price": 5000,
+    "category": "Обувь"
+  },
+  {
+    "id": 5,
+    "name": "Сандалии",
+    "image": "https://picsum.photos/id/5/300/300.jpg",
+    "price": 2500,
+    "category": "Обувь"
+  },
+  {
+    "id": 6,
+    "name": "Часы",
+    "image": "https://picsum.photos/seed/watch/300/300.jpg",
+    "price": 15000,
+    "category": "Аксессуары"
+  },
+  {
+    "id": 7,
+    "name": "Рюкзак",
+    "image": "https://picsum.photos/id/52/300/300.jpg",
+    "price": 4000,
+    "category": "Аксессуары"
+  },
+  {
+    "id": 8,
+    "name": "Очки солнцезащитные",
+    "image": "https://picsum.photos/id/43/300/300.jpg",
+    "price": 2000,
+    "category": "Аксессуары"
+  },
+  {
+    "id": 9,
+    "name": "Наушники",
+    "image": "https://picsum.photos/id/55/300/300.jpg",
+    "price": 8000,
+    "category": "Гаджеты"
+  },
+  {
+    "id": 10,
+    "name": "Смартфон",
+    "image": "https://picsum.photos/seed/iphone/300/300.jpg",
+    "price": 30000,
+    "category": "Гаджеты"
+  },
+  {
+    "id": 11,
+    "name": "Планшет",
+    "image": "https://picsum.photos/seed/ipad/300/300.jpg",
+    "price": 40000,
+    "category": "Гаджеты"
+  },
+  {
+    "id": 12,
+    "name": "Кепка",
+    "image": "https://picsum.photos/id/12/300/300.jpg",
+    "price": 1200,
+    "category": "Аксессуары"
+  },
+  {
+    "id": 13,
+    "name": "Поясная сумка",
+    "image": "https://picsum.photos/id/130/300/300.jpg",
+    "price": 3000,
+    "category": "Аксессуары"
+  },
+  {
+    "id": 14,
+    "name": "Рубашка",
+    "image": "https://picsum.photos/id/140/300/300.jpg",
+    "price": 3500,
+    "category": "Одежда"
+  },
+  {
+    "id": 15,
+    "name": "Коврик для мыши",
+    "image": "https://picsum.photos/id/15/300/300.jpg",
+    "price": 500,
+    "category": "Гаджеты"
+  },
+  {
+    "id": 16,
+    "name": "Клавиатура",
+    "image": "https://picsum.photos/id/46/300/300.jpg",
+    "price": 2500,
+    "category": "Гаджеты"
+  },
+  {
+    "id": 17,
+    "name": "Стул",
+    "image": "https://picsum.photos/id/47/300/300.jpg",
+    "price": 7000,
+    "category": "Мебель"
+  },
+  {
+    "id": 18,
+    "name": "Стол",
+    "image": "https://picsum.photos/id/18/300/300.jpg",
+    "price": 12000,
+    "category": "Мебель"
+  },
+  {
+    "id": 19,
+    "name": "Тумбочка",
+    "image": "https://picsum.photos/id/195/300/300.jpg",
+    "price": 4500,
+    "category": "Мебель"
+  },
+  {
+    "id": 20,
+    "name": "Диван",
+    "image": "https://picsum.photos/id/20/300/300.jpg",
+    "price": 45000,
+    "category": "Мебель"
+  },
+  {
+    "id": 21,
+    "name": "Полка настенная",
+    "image": "https://picsum.photos/id/21/300/300.jpg",
+    "price": 2000,
+    "category": "Мебель"
+  },
+  {
+    "id": 22,
+    "name": "Ботинки",
+    "image": "https://picsum.photos/id/222/300/300.jpg",
+    "price": 6000,
+    "category": "Обувь"
+  },
+  {
+    "id": 23,
+    "name": "Спортивный костюм",
+    "image": "https://picsum.photos/id/230/300/300.jpg",
+    "price": 7000,
+    "category": "Одежда"
+  },
+  {
+    "id": 24,
+    "name": "Свитер",
+    "image": "https://picsum.photos/id/248/300/300.jpg",
+    "price": 4000,
+    "category": "Одежда"
+  },
+  {
+    "id": 25,
+    "name": "Ремень кожаный",
+    "image": "https://picsum.photos/id/25/300/300.jpg",
+    "price": 2500,
+    "category": "Аксессуары"
+  },
+  {
+    "id": 26,
+    "name": "Бейсболка",
+    "image": "https://picsum.photos/id/26/300/300.jpg",
+    "price": 1300,
+    "category": "Аксессуары"
+  },
+  {
+    "id": 27,
+    "name": "Умные часы",
+    "image": "https://picsum.photos/id/27/300/300.jpg",
+    "price": 20000,
+    "category": "Гаджеты"
+  },
+  {
+    "id": 28,
+    "name": "Тапочки",
+    "image": "https://picsum.photos/id/288/300/300.jpg",
+    "price": 1000,
+    "category": "Обувь"
+  }
+]
