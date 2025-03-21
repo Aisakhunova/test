@@ -8,6 +8,7 @@ export default function useProducts() {
 	})
 
 	const products = ref([])
+	const selectedCategory = ref(null)
 
 	const getAllProducts = () => {
 		flags.isLoading = true
@@ -20,9 +21,19 @@ export default function useProducts() {
 		})
 	}
 
+	const filteredProducts = computed(() => {
+		return selectedCategory.value ? 
+			products.value.filter(product => 
+				product.category === selectedCategory.value
+			) : 
+			products.value
+	})
+
 	return {
 		flags,
 		products,
 		getAllProducts,
+		selectedCategory,
+		filteredProducts
 	}
 }
