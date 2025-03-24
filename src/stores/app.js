@@ -4,14 +4,14 @@ import { defineStore } from 'pinia'
 export const useAppStore = defineStore('app', {
 	state: () => ({
 		favorites: ref([]),
-		cart: [],\
+		cart: [],
 	}),
 
 	getters: {
 		isFavorite: (state) => (productId) => state.favorites.includes(productId),
 
 		cartTotal: (state) => state.cart.reduce((sum, item) => sum + item.quantity, 0),
-    cartItems: (state) => state.cart
+    	cartItems: (state) => state.cart
 
 	  },
 	

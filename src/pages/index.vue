@@ -1,5 +1,5 @@
 <script setup>
-import PorductList from '../components/products/ProductList.vue'
+import ProductList from '../components/products/ProductList.vue'
 // import useProducts from '@/composables/useProducts'
 
 // const {
