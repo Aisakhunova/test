@@ -9,7 +9,12 @@
 			class="ms-3"
 		/>
 
-		<!-- отобразить ссылки на избранное и корзину -->
+		<v-btn
+			:to="'likes'"
+			text="Избранное"
+			slim
+			class="ms-3"
+		/>
 
 		<v-btn
 			:to="'table'"
@@ -17,6 +22,7 @@
 			slim
 			class="ms-3"
 		/>
+
 	</v-app-bar>
 </template>
 
