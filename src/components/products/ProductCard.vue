@@ -35,6 +35,7 @@ const decreaseQuantity = () => {
     appStore.removeFromCart(props.product.id);
   }
 };
+
 </script>
 
 <template>
@@ -73,6 +74,15 @@ const decreaseQuantity = () => {
         @click="toggleLike"
       ></v-btn>
     </v-card-actions>
+
+        <v-btn color="primary">В корзину</v-btn>
+        <v-btn 
+            icon="mdi-heart"  
+            :color="isFavorite ? 'red' : 'grey'" 
+            @click="toggleLike"
+        ></v-btn>
+    </v-card-actions>
+
   </v-card>
 </template>
 
