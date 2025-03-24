@@ -23,6 +23,13 @@
 			class="ms-3"
 		/>
 
+		<v-btn
+			:to="'cart'"
+			text="cart"
+			slim
+			class="ms-3"
+		/>
+
 	</v-app-bar>
 </template>
 
